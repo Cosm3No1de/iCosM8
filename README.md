@@ -1,6 +1,6 @@
 # iCosM8 Bypass Tool
 
-[![Imagen Descriptiva Aquí](assets/iCosTool.png)](assets/iCosTool.png)
+[![Imagen Descriptiva Aquí](assets/ICosTool.png)](assets/ICosTool.png)
 
 
 ## Descripción del Proyecto
