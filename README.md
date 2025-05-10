@@ -1,7 +1,7 @@
 # iCosM8 Bypass Tool
 
 [![Imagen Descriptiva Aquí](assets/iCo.png)](assets/iCo.png))
-_Reemplaza la ruta de arriba con la ubicación de una imagen que muestre tu herramienta en acción o su interfaz._
+
 
 ## Descripción del Proyecto
 
@@ -21,13 +21,4 @@ Esta herramienta busca simplificar el proceso de [**Menciona los procesos clave 
 * **Salida Detallada:** [**Explica cómo tu herramienta muestra la información del proceso, incluyendo la salida estándar y los errores.**]
 * **Soporte para Linux:** [**Indica el sistema operativo principal para el que está diseñada tu herramienta.**]
 
-## Capturas de Pantalla (Opcional)
-
-Si tienes capturas de pantalla de la interfaz de tu herramienta, puedes añadirlas aquí:
-
-```markdown
-![Captura de Pantalla 1](ruta/a/captura1.png)
-_Breve descripción de la captura de pantalla 1._
-
-![Captura de Pantalla 2](ruta/a/captura2.png)
-_Breve descripción de la captura de pantalla 2._
+###cosm3No1de.dev
